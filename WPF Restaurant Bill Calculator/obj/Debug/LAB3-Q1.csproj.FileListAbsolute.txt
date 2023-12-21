@@ -1,0 +1,16 @@
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#3\LAB3\bin\Debug\301292283(LING LIN)_LAB3.exe.config
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#3\LAB3\bin\Debug\301292283(LING LIN)_LAB3.exe
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#3\LAB3\bin\Debug\301292283(LING LIN)_LAB3.pdb
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#3\LAB3\obj\Debug\LAB3-Q1.csproj.AssemblyReference.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#3\LAB3\obj\Debug\LAB3-Q1.csproj.SuggestedBindingRedirects.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#3\LAB3\obj\Debug\MainWindow.g.cs
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#3\LAB3\obj\Debug\App.g.cs
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#3\LAB3\obj\Debug\301292283(LING LIN)_LAB3_MarkupCompile.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#3\LAB3\obj\Debug\301292283(LING LIN)_LAB3_MarkupCompile.lref
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#3\LAB3\obj\Debug\MainWindow.baml
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#3\LAB3\obj\Debug\301292283(LING LIN)_LAB3.g.resources
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#3\LAB3\obj\Debug\_301292283_LING_LIN__LAB3.Properties.Resources.resources
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#3\LAB3\obj\Debug\LAB3-Q1.csproj.GenerateResource.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#3\LAB3\obj\Debug\LAB3-Q1.csproj.CoreCompileInputs.cache
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#3\LAB3\obj\Debug\301292283(LING LIN)_LAB3.exe
+C:\2022F-Centennial College-HD\2023 Fall\COMP212 - Programming 3(SEC.004)\Lab#3\LAB3\obj\Debug\301292283(LING LIN)_LAB3.pdb
